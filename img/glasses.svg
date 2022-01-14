@@ -1,0 +1,47 @@
+<svg id="glasses" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="temple-left" class="cls-1" d="M382,278l88-88,11,29" transform="translate(-16.5 6)"/>
+  <path id="temple-right" class="cls-1" d="M74,258l107-72,16,28" transform="translate(-16.5 6)"/>
+  <path id="bridge" class="cls-1" d="M207,268l16-2,15,4" transform="translate(-16.5 6)"/>
+  <path id="rim-left" class="cls-1" d="M382,277c0-14.662-19.374-36-73-36-70.033,0-71,31.513-71,36,0,6.535,4.448,37,76,37C364.259,314,382,291.99,382,277Z" transform="translate(-16.5 6)"/>
+  <path id="rim-right" class="cls-1" d="M64,277c0-14.662,19.374-36,73-36,70.033,0,71,31.513,71,36,0,6.535-4.448,37-76,37C81.741,314,64,291.99,64,277Z" transform="translate(-16.5 6)"/>
+</svg>
