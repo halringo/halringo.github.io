@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+header {
+  height: 90vh;
+}
+
+header h1 {
+  margin: 0;
+}
+
+h1 img {
+  height: 150px;
+  width: 150px;
+  max-height: 40vh;
+  max-width: 40vh;
+}
+
+.angle-down {
+  color: #d0d0d0;
+  margin-top: -3rem;
+  margin-bottom: 3rem;
+}
+
+.about-me {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+}
+
+.about-me h2::after {
+  background-color: powderblue;
+  border-radius: 2px;
+  content: '';
+  display: block;
+  height: 4px;
+  margin: 24px auto;
+  width: 24px;
+}
+
+.my-name {
+  margin-bottom: 2rem;
+}
+
+.links {
+  margin-bottom: 10vh;
+}
+
+.links a {
+  transition: color 1000ms;
+}
+
+.links a:hover {
+  color: powderblue !important;
+  transition: color 300ms;
+}
+
+footer {
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 6vh;
+}

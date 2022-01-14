@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+header {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+}
+
+.links {
+  margin-bottom: 10vh;
+}
+
+.links a {
+  transition: color 1000ms;
+}
+
+.links a:hover {
+  color: powderblue !important;
+  transition: color 300ms;
+}
+
+footer {
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 6vh;
+}
